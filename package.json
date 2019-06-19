@@ -1,0 +1,25 @@
+{
+  "name": "dev-pg-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-loging.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "math-random": "^1.0.4",
+    "node-random-name": "^1.0.1",
+    "readline-sync": "^1.4.9",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Hello test script npm\"",
+    "start": "node 100-random.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://viruskizz@bitbucket.org/viruskizz/dev-class-pg.git"
+  },
+  "author": "Thitiwut Somsa <kizzaraiva@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/viruskizz/dev-class-pg#readme"
+}
