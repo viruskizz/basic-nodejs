@@ -11,7 +11,7 @@ let input = 2;
 if(5>2) {
   console.log('It greater');
 }
-if(input !== 1) {
+if(input === 1) {
   console.log('Yes it change');
 }
 /**

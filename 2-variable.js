@@ -8,7 +8,9 @@ console.log('Hello'+ ' ' + name + ' ' + lastname);
 
 name = 'POR';
 lastname = '555';
+var x = 5;
 let firstName = 'Eaw';
+const z = 10;
 console.log('Hello'+ ' ' + name + ' ' + lastname);
 
 console.log('1. ${name} '+ firstName + ' ' +lastname);

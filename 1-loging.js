@@ -15,9 +15,3 @@ console.log('use , to fix simple calculate: ', (5 + 10));
  *  git checkout
  *  git checkout -b
  */
-
-remote(v2) /
-  \
-  stage stage /
-  \
-  local(v1) local(v2)

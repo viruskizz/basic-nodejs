@@ -35,6 +35,7 @@ function callExchange(previousDate, currentDate) {
         result.push(dataRate);
       });
       console.log(result);
+      console.log(result.sort((a,b) => a.avgRate - b.avgRate));
     });
 }
 

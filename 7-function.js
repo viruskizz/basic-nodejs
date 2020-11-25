@@ -29,5 +29,5 @@ function callGrade(point) {
   } else {
     grade = 'F';
   }
-  return grade;
+  // return grade;
 }

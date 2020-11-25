@@ -15,6 +15,7 @@ const array = [1,2,3,4,5].forEach((element, index, array) => {
   console.log(element + '@' + index + ' => ' + array);
 });
 const sum = [1,2,3,4,5,6,7,8,9,10].reduce((a, b) => a + b);
+
 console.log(sum);
 console.log('por'[0]);
 console.log('por'.toUpperCase());
